@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "KBBI Qt"
+date:   2016-11-30 21:33:35
+categories: Rilis Aplikasi
+---
+![antarmuka KBBI Qt](img/kbbi-qt.png)
+![antarmuka baru PUEBI](img/puebi.png)
+Setelah merilis [versi alpha](https://github.com/bgli/kbbi-qt/releases/tag/v1.0-alpha) pada 5 November 2016 lalu, akhirnya hari ini Kami pengembang KBBI Qt, dengan bangga merilis versi 1.0 final aplikasi perkamusan _open source_ ini. 
+
+Beberapa fitur KBBI Qt yang telah tersedia pada rilis [versi alpha](https://github.com/bgli/kbbi-qt/releases/tag/v1.0-alpha) antara lain;
+- pencarian otomatis,
+- pencarian kata yang mengandung unsur lema,
+- penyesuai ukuran fonta, dan 
+- fitur ekstra berupa PUEBI.
+
+
+Pembaharuan yang disematkan pada KBBI Qt versi final antara lain;
+- perbaikan antar-muka PUEBI yang didesain ulang menjadi lebih interaktif,
+- perbaikan _bug_ dan pembersihan kode sumber, serta
+- pembenahan pemaketan _RPM_ dan _DEB_.
+
+KBBI-Qt adalah aplikasi Kamus Besar Bahasa Indonesia berbasis GUI (*Graphical User Interface* atau Antarmuka Berbasis Grafik) berlisensi GNU GPL v3.0 yang dikembangkan dengan bahasa pemrograman C++ dan Framework Qt.
+
+KBBI Qt bersifat _multiplatform_ yang berarti tidak hanya dapat dijalankan pada sistem operasi Linux, tetapi juga dapat digunakan pada sistem operasi Windows. Harapannya, KBBI Qt dapat membantu masyarakat secara umum (tidak terbatas pada sistem operasi terntentu) untuk memperoleh informasi terkait pengetahuan kebahasaan. Aplikasi ini sekaligus menjadi media sosialisasi kepada masyarakat luas mengenai Pedoman Umum Ejaan Bahasa Indonesia  (PUEBI) yang sebelumnya dikenal dengan EyD.
+
+Kami akan sangat terbantu dalam pengembangan aplikasi ini bila Anda berkenan memberikan tanggapan, baik berupa kritik maupun saran, guna pengembangan KBBI Qt selanjutnya. Untuk menggunakan KBBI Qt versi final, silakan unduh  melalui [tautan ini](https://github.com/bgli/kbbi-qt/releases/tag/v1.0). Panduan pemasangan dan penggunaan telah disediakan dan dapat dibaca pada berkas `dokumentasi`.
+
+BGLI-Dev
