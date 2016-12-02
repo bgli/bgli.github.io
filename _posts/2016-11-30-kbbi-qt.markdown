@@ -4,8 +4,9 @@ title:  "KBBI Qt"
 date:   2016-11-30 21:33:35
 categories: Rilis Aplikasi
 ---
-![antarmuka KBBI Qt](img/kbbi-qt.png)
-![antarmuka baru PUEBI](img/puebi.png)
+![antarmuka KBBI Qt](/img/kbbi-qt.png)
+![antarmuka baru PUEBI](/img/puebi.png)
+<br>
 Setelah merilis [versi alpha](https://github.com/bgli/kbbi-qt/releases/tag/v1.0-alpha) pada 5 November 2016 lalu, akhirnya hari ini Kami pengembang KBBI Qt, dengan bangga merilis versi 1.0 final aplikasi perkamusan _open source_ ini. 
 
 Beberapa fitur KBBI Qt yang telah tersedia pada rilis [versi alpha](https://github.com/bgli/kbbi-qt/releases/tag/v1.0-alpha) antara lain;
