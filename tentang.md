@@ -5,5 +5,5 @@ permalink: /tentang/
 ---
 
 Selamat datang di situs **Belajar GNU/Linux Indonesia**
-Tautuan untuk bergabung di grup Telegram:
+Tautan untuk bergabung di grup Telegram:
 <https://telegram.me/GNULinuxIndonesia>
